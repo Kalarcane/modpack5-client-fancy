@@ -77,10 +77,6 @@ file = "config/yosbr/config/provihealth.json"
 hash = "27bab128c37d341fc9422612c361fb18e47f3aca73ebc5d190f4a4dc5b2094d9"
 
 [[files]]
-file = "config/yosbr/config/realcamera.json"
-hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
-
-[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "186cb9523a4c0d1806719ea5c2b00d71553b2affa3fb8916b04800c5dad51767"
 
@@ -977,11 +973,6 @@ metafile = true
 [[files]]
 file = "mods/real-arrow-tip.pw.toml"
 hash = "eee9ab97db104e641d47b01b15a99efb605e3a72c89e2fe16e25fa632c3c7da7"
-metafile = true
-
-[[files]]
-file = "mods/real-camera.pw.toml"
-hash = "a7eef32c525e7362067b65e5004be37ccc9cfde9bb29eb480552384eeb3ec93a"
 metafile = true
 
 [[files]]
